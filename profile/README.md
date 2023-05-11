@@ -1,7 +1,7 @@
 ## Hi there 👋🏻 
 This is official repo of iOS Club in Guangzhou University 
 - 🦾 Machine Learning / Swift / SwiftUI / CoreML / AR&VR
-- 📨 Email me at: [ios-club-gzhu@outlook.com](mailto:ios-club-gzhu@outlook.com)
+- 📨 Email us at: [ios-club-gzhu@outlook.com](mailto:ios-club-gzhu@outlook.com)
 - 🐾 Founer: LinkedIn: **[Walter Wang](https://www.linkedin.com/in/walter-wang-0521741b2/)**
 
 <p>
@@ -17,3 +17,9 @@ This is official repo of iOS Club in Guangzhou University
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Date)
+
+⬆️
+```markdown
+[![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Date)
+```
