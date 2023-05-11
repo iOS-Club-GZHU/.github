@@ -2,7 +2,7 @@
 This is official repo of iOS Club in Guangzhou University 
 - 🦾 Machine Learning / Swift / SwiftUI / CoreML / AR&VR
 - 📨 Email me at: [ios-club-gzhu@outlook.com](mailto:ios-club-gzhu@outlook.com)
-- 🐾 Founer: LinkedIn: **[Walter Wang]([https://www.linkedin.com/in/lucyling24/](https://www.linkedin.com/in/walter-wang-0521741b2/))** 
+- 🐾 Founer: LinkedIn: **[Walter Wang](https://www.linkedin.com/in/walter-wang-0521741b2/)**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
